@@ -1,0 +1,28 @@
+.square{
+    width: 120px;
+    height: 100px;
+    border: 0.5px solid rgba(255, 255, 255, 0.089);
+    background-color: #34495E;
+    font-size: 52px;
+    color: white;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+    cursor: pointer;
+}
+.squareRed{
+    width: 120px;
+    height: 100px;
+    border: 0.5px solid rgba(255, 255, 255, 0.089);
+    background-color: #34495E;
+    font-size: 52px;
+    color: goldenrod;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+    cursor: pointer;
+}
